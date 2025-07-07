@@ -39,8 +39,6 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
     </a>
 </p>
-    <br> <br>
-
 
 ## ⚡ Tech Stack
 
