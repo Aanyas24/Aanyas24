@@ -1,4 +1,4 @@
-# Hi, I’m Aanya! 👋
+# Hey, I’m Aanya Sukhija! 👋
 
 🎓 **Student & Aspiring Developer**  
 🛠️ Crafting projects I wish existed.
