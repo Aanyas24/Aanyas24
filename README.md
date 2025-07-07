@@ -43,7 +43,7 @@
   </a>
 </p>
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Languages -->
