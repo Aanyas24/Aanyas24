@@ -2,7 +2,7 @@
 <tr>
 <td style="width: 50%; vertical-align: top; min-width: 320px;">
 
-<h1>Hey, I’m Aanya <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="30"/></h1>
+<h1>Hey, I’m Aanya Sukhija <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="30"/></h1>
 
 <!-- Animated Typing Header (powered by readme-typing-svg) -->
 <p>
