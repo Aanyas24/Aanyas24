@@ -1,50 +1,64 @@
-# Hey, I’m Aanya Sukhija! 👋
-
-🎓 **Student & Aspiring Developer**  
-🛠️ Crafting projects I wish existed.
-
----
-
-## 👩‍💻 About Me
-
-- 🚀 Currently a student passionate about technology and building solutions that matter.
-- 🌱 Constantly learning and exploring new tools and frameworks.
-- 💡 I love working on projects that I’d want to use myself!
+<!-- Profile header with banner style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%27m+Aanya+%F0%9F%91%8B;Student+%E2%80%A2+Aspiring+Developer+%F0%9F%92%BB;Building+projects+I+wish+existed" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-purple?style=flat-square)
-![DSA](https://img.shields.io/badge/-DSA-007ACC?style=flat-square)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 🌟 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanya-sukhija-785a3125a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://www.leetcode.com/aanya_sukhija)
+- 🎓 **Student** with a passion for tech and creativity
+- 🚀 Always learning, always building
+- 💡 Turning ideas into reality with code
+- ✨ Working on projects I wish existed
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb" />
+</p>
+
+- 🧠 Generative AI | DSA
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aanyas24&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanyas24&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/aanya_sukhija"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
 <details>
-  <summary>📈 My GitHub Stats</summary>
-
-  ![Aanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aanyas24&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanyas24&layout=compact&theme=radical)
+  <summary>📝 <b>Fun Fact</b></summary>
+  <br>
+  <p align="center">
+    <i>"Working on projects I wish existed."</i>
+  </p>
 </details>
 
 ---
 
-> “Working on projects I wish existed.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
