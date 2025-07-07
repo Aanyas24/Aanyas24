@@ -39,14 +39,7 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
     </a>
     <br> <br>
-## 🌟 About Me
 
-- 🎓 **Student** with a passion for tech and creativity
-- 🚀 Always learning, always building
-- 💡 Turning ideas into reality with code
-- ✨ Working on projects I wish existed
-
----
 
 ## ⚡ Tech Stack
 
