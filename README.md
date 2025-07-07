@@ -85,16 +85,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/aanya_sukhija"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
 <details>
   <summary>📝 <b>Fun Fact</b></summary>
   <br>
