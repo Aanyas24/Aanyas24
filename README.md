@@ -42,13 +42,12 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38" />
   </a>
 </p>
+
 ## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,nodejs,express,mongodb" />
 </p>
-
-- 🧠 Generative AI | DSA
 
 ---
 
