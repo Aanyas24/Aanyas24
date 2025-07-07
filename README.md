@@ -10,10 +10,12 @@
 </p>
 
 <ul>
-  <li>💡 <b>Student & Aspiring Developer</b></li>
-  <li>⚡ C++, Python, Java, HTML, CSS, JS, React, Node.js, MongoDB, Express.js</li>
-  <li>🤖 Exploring Generative AI & DSA</li>
+  <li> 👀<b>Exploring Generative AI</b></li>
+  <li>⚡ Senior Tech Team Member - NameSpace BPIT </li>
+  <li>🤖 Skilled in DSA</li>
   <li>🚀 Working on projects I wish existed</li>
+  <li>📖 Ex- Intern @Infogain</li>
+  <li>📫 aanyasukhija@gmail.com
   <li>🌱 Always learning and building</li>
   <li>
     <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/">
