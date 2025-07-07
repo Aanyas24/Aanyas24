@@ -28,7 +28,7 @@
 </td>
 </tr>
 </table>
-
+<p align = "center">
 <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
     </a>
@@ -38,6 +38,7 @@
     <a href="https://www.leetcode.com/aanya_sukhija">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
     </a>
+</p>
     <br> <br>
 
 
