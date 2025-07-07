@@ -28,18 +28,20 @@
 </td>
 </tr>
 </table>
-<p align = "center">
-<a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.leetcode.com/aanya_sukhija">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+  </a>
+  <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="38" />
+  </a>
+  <a href="https://www.leetcode.com/aanya_sukhija" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="38" />
+  </a>
+  <a href="https://discord.gg/U96xHCZt" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="38" />
+  </a>
 </p>
-
 ## ⚡ Tech Stack
 
 <p align="center">
