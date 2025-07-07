@@ -17,17 +17,6 @@
   <li>📖 Ex- Intern @Infogain</li>
   <li>📫 aanyasukhija@gmail.com
   <li>🌱 Always learning and building</li>
-  <li>
-    <a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://www.leetcode.com/aanya_sukhija">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
-    </a>
-  </li>
 </ul>
 
 </td>
@@ -40,6 +29,16 @@
 </tr>
 </table>
 
+<a href="https://www.linkedin.com/in/aanya-sukhija-785a3125a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/aannyyaa.__?igsh=d2F3aGFnNmxydTVi">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.leetcode.com/aanya_sukhija">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
+    </a>
+    <br> <br>
 ## 🌟 About Me
 
 - 🎓 **Student** with a passion for tech and creativity
