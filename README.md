@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-  <li> 👀<b>Exploring Generative AI</b></li>
+  <li>👀 <b>Exploring Generative AI</b></li>
   <li>⚡ Senior Tech Team Member - NameSpace BPIT </li>
   <li>🤖 Skilled in DSA</li>
   <li>🚀 Working on projects I wish existed</li>
